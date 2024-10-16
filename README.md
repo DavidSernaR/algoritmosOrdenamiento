@@ -80,8 +80,8 @@ El programa genera representaciones gráficas del tiempo que toma cada algoritmo
 
 Los tiempos de ordenamiento se muestran para conjuntos de datos de:
 
-- 10000 elementos
-- 100000 elementos
-- 1000000 elementos
+- 10.000 elementos
+- 100.000 elementos
+- 1.000.000 elementos
 
 Los tiempos de búsqueda se visualizan en milisegundos.
