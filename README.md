@@ -67,7 +67,7 @@ Los siguientes algoritmos de ordenamiento están implementados en `algoritmos.py
 
 ## Algoritmos de Búsqueda
 
-Los algoritmos de búsqueda implementados en algoritmosBusqueda.py incluyen:
+Los algoritmos de búsqueda implementados en `algoritmosBusqueda.py` incluyen:
 
 - **Búsqueda Lineal:** Busca elemento por elemento.
 - **Búsqueda Lineal Limitada:** Búsqueda lineal limitada a un número específico de elementos.
