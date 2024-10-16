@@ -65,6 +65,15 @@ Los siguientes algoritmos de ordenamiento están implementados en `algoritmos.py
   - **Merge Sort (`merge_sort`):** Algoritmo eficiente y estable con complejidad O(n log n).
   - **Bitonic Sort (`bitonic_sort`):** Algoritmo paralelo de ordenamiento.
 
+## Algoritmos de Búsqueda
+
+Los algoritmos de búsqueda implementados en algoritmosBusqueda.py incluyen:
+
+- **Búsqueda Lineal:** Busca elemento por elemento.
+- **Búsqueda Lineal Limitada:** Búsqueda lineal limitada a un número específico de elementos.
+- **Búsqueda Binaria:** Búsqueda en un arreglo ordenado utilizando un enfoque de divide y vencerás.
+- **Búsqueda por Saltos:** Busca utilizando pasos fijos, seguidos de una búsqueda lineal en el bloque.
+
 ## Visualización del Rendimiento
 
 El programa genera representaciones gráficas del tiempo que toma cada algoritmo para procesar arreglos de distintos tamaños. Los gráficos muestran el tiempo de ejecución en segundos para facilitar la comparación entre algoritmos.
